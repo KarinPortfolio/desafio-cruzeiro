@@ -1,4 +1,4 @@
-console.log("Ano novo está chegando!")
+console.log("O ano novo está chegando! Uhu!!")
 console.log("----------")
 let cantora = "Mariah Carey"
 let idade = 54
@@ -18,7 +18,7 @@ if (id >=18){
 console.log("Você é maior de idade, poderá curtir o show do Roberto Carlos com participação especial de Mariah Carey")
 }
 else {
-    console.log("Você não tem idade suficiente. Sinto muito, mas assistirá ao show da tv globo.")
+    console.log("Você não tem idade suficiente. Sinto muito, mas assistirá ao show do Roberto Carlos com participação especial de Mariah Carey apenas pela tv globo.")
 }
 
 console.log("----------")
