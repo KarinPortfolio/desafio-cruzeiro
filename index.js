@@ -5,6 +5,11 @@ let idade = 54
 let anoNascimento = 2023 - 54
 console.log("A " + cantora +" nasceu no ano de " + anoNascimento + " e tem " + idade + " anos.")
 console.log("----------")
+let cantor = "Roberto Carlos"
+let anoNasc = 1941
+let age = 2023 - anoNasc
+console.log(`Ninguém perguntou, mas o ${cantor} tem ${age} anos. Ele nasceu em ${anoNasc}.`)
+console.log("----------")
 let quartaFeira = true
 if(quartaFeira === true){
 console.log("Oba! Hoje é quarta-feira! Tem aula da Karynne!!!")
